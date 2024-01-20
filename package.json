@@ -1,0 +1,5 @@
+{ "dependencies": { "viem": "^2.0.6" }, "name": "proxydiff", "module": "index.ts", "type": "module", "devDependencies": {
+  "@types/bun": "latest"
+}, "peerDependencies": {
+  "typescript": "^5.0.0"
+} }
